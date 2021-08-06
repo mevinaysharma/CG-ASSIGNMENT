@@ -4,11 +4,11 @@
 >1BY18CS217
 >6TH SEM CSE 2022
 
-##Description
+####Description
 
 In this mini-project we have demonstrated the Rotation of Fan by using OpenGL and the model is designed with pure C++ code.
 
-##Features
+####Features
 
 * Uses GLUT, GLEW.
 * Compiled with GCC using `-lglut -lGL -lGLU -lGLEW`
